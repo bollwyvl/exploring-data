@@ -1,0 +1,14 @@
+name: living-data
+channels:
+  - conda-forge
+dependencies:
+  - bqplot
+  - ipyleaflet
+  - ipywidgets
+  - jupyterlab
+  - matplotlib
+  - nbpresent
+  - nodejs
+  - notebook
+  - python =3.5
+  - pythreejs
