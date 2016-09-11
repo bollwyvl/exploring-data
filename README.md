@@ -1,4 +1,3 @@
-# Living Data
-> presented at [PyData Atlanta](http://www.meetup.com/PyData-Atlanta/) September 2016
+# Living Data  [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/bollywvl/living-data)
 
-Check it out on binder: _TBD_
+> presented at [PyData Atlanta](http://www.meetup.com/PyData-Atlanta/) September 2016
