@@ -1,4 +1,4 @@
-name: living-data
+name: exploring-data
 channels:
   - conda-forge
 dependencies:
@@ -10,5 +10,5 @@ dependencies:
   - nbpresent
   - nodejs
   - notebook
-  - python =3.5
+  - python
   - pythreejs
